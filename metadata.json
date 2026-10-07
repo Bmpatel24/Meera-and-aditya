@@ -1,0 +1,6 @@
+{
+  "name": "Meera & Aditya — Royal Wedding Invitation",
+  "description": "An extraordinary, luxury cinematic Indian wedding invitation for the union of Meera Kapur & Aditya Singhvi in Udaipur, Rajasthan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
