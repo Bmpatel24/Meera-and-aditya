@@ -1,0 +1,11 @@
+# Logs & IDE
+.system_generated/
+*.log
+.DS_Store
+Thumbs.db
+
+# Temp test files
+inspect_js.ps1
+find_media.ps1
+check_mount.ps1
+test_urls.ps1
